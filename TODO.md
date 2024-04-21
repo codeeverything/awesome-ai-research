@@ -1,0 +1,6 @@
+- [ ] Order papers better
+- [ ] Provide relationships between papers
+- [ ] Sort by publication year?
+- [ ] Provide more analysis. E.g. benchmark scores by paper, model size etc - more actionable data
+- [ ] Graphical representations of SOTA progress across benchmarks? May be insightful? Are meaningful advances still being made or has progress slowed?
+- [ ] Complimenrarity / orthogancality. I.e. which papers can build on one another, or alongside one another, to deliver maximal outcomes?
