@@ -25,7 +25,6 @@ I hope this collection serves as a springboard for your exploration and inspires
   - [HINT-ENHANCED IN-CONTEXT LEARNING WAKES LARGE LANGUAGE MODELS UP FOR KNOWLEDGE-INTENSIVE TASKS](https://arxiv.org/pdf/2311.01949.pdf)
   - [Retrieval-Augmented Multi-Modal Chain-of-Thoughts Reasoning for Large Language Models](https://arxiv.org/pdf/2312.01714.pdf)
   - [Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models](https://arxiv.org/pdf/2312.17080.pdf)
-  - [ClarifyGPT: Empowering LLM-based Code Generation with Intention Clarification](https://arxiv.org/pdf/2310.10996.pdf)
   - [LINC: A Neurosymbolic Approach for Logical Reasoning by Combining Language Models with First-Order Logic Provers](https://arxiv.org/pdf/2310.15164.pdf)
   - [Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models](https://arxiv.org/pdf/2304.09842.pdf)
   - [Progressive-Hint Prompting Improves Reasoning in Large Language Models](https://arxiv.org/pdf/2304.09797.pdf)
@@ -45,6 +44,7 @@ I hope this collection serves as a springboard for your exploration and inspires
   - [MFTCoder: Boosting Code LLMs with Multitask Fine-Tuning](https://arxiv.org/pdf/2311.02303.pdf)
   - [Bridging Code Semantic and LLMs: Semantic Chain-of-Thought Prompting for Code Generation](https://arxiv.org/pdf/2310.10698.pdf)
   - [INTERVENOR : Prompting the Coding Ability of Large Language Models with the Interactive Chain of Repair](https://arxiv.org/pdf/2311.09868.pdf)
+  - [ClarifyGPT: Empowering LLM-based Code Generation with Intention Clarification](https://arxiv.org/pdf/2310.10996.pdf)
 - Logical reasoning
   - [Language Models can be Logical Solvers](https://arxiv.org/pdf/2311.06158.pdf)
 - Math  
