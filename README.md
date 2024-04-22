@@ -15,121 +15,146 @@ I hope this collection serves as a springboard for your exploration and inspires
 > This section presents papers exploring advanced reasoning capabilities of Large Language Models (LLMs). Topics include self-improvement techniques, multi-agent systems, ethical reasoning, mathematical reasoning, and approaches to enhance LLMs' ability to process and generate logically coherent and contextually relevant responses. Expect insights on enhancing code generation, debugging, and solving complex algorithmic challenges.
 
 - General
-  - [Stream of Search (SoS): Learning to Search in Language](https://arxiv.org/pdf/2404.03683.pdf)
-  - [Language Models as Compilers: Simulating Pseudocode Execution Improves Algorithmic Reasoning in Language Models](https://arxiv.org/pdf/2404.02575.pdf)
-  - [Toward Self-Improvement of LLMs via Imagination, Searching, and Criticizing (AlphaLLM)](https://arxiv.org/pdf/2404.12253.pdf)
-  - [DON’T TRUST: VERIFY – GROUNDING LLM QUANTITATIVE REASONING WITH AUTOFORMALIZATION](https://arxiv.org/pdf/2403.18120.pdf)
-  - [Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking](https://arxiv.org/pdf/2403.09629.pdf)
-  - [Self-Discover: Large Language Models Self-Compose Reasoning Structures](https://arxiv.org/pdf/2402.03620.pdf)
-  - [BRANCH-SOLVE-MERGE IMPROVES LARGE LANGUAGE MODEL EVALUATION AND GENERATION](https://arxiv.org/pdf/2310.15123.pdf)
-  - [HINT-ENHANCED IN-CONTEXT LEARNING WAKES LARGE LANGUAGE MODELS UP FOR KNOWLEDGE-INTENSIVE TASKS](https://arxiv.org/pdf/2311.01949.pdf)
-  - [Retrieval-Augmented Multi-Modal Chain-of-Thoughts Reasoning for Large Language Models](https://arxiv.org/pdf/2312.01714.pdf)
-  - [Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models](https://arxiv.org/pdf/2312.17080.pdf)
-  - [LINC: A Neurosymbolic Approach for Logical Reasoning by Combining Language Models with First-Order Logic Provers](https://arxiv.org/pdf/2310.15164.pdf)
-  - [Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models](https://arxiv.org/pdf/2304.09842.pdf)
-  - [Progressive-Hint Prompting Improves Reasoning in Large Language Models](https://arxiv.org/pdf/2304.09797.pdf)
-  - [Causal Reasoning and Large Language Models: Opening a New Frontier for Causality](https://arxiv.org/pdf/2305.00050.pdf)
-  - [Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models](https://arxiv.org/pdf/2305.04091.pdf)
-  - [Verify-and-Edit: A Knowledge-Enhanced Chain-of-Thought Framework](https://arxiv.org/pdf/2305.03268.pdf)
-  - [Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://arxiv.org/pdf/2305.10601.pdf)
-  - [Recursion of Thought: A Divide-and-Conquer Approach to Multi-Context Reasoning with Language Models](https://arxiv.org/pdf/2306.06891.pdf)
-  - [Memory Injections: Correcting Multi-Hop Reasoning Failures during Inference in Transformer-Based Language Models](https://arxiv.org/pdf/2309.05605.pdf)
-  - [MAMMOTH: BUILDING MATH GENERALIST MODELS THROUGH HYBRID INSTRUCTION TUNING](https://arxiv.org/pdf/2309.05653.pdf)
-  - [Everything of Thoughts: Defying the Law of Penrose Triangle for Thought Generation](https://arxiv.org/abs/2311.04254)
+  - 2024
+    - [Reason from Fallacy: Enhancing Large Language Models’ Logical Reasoning through Logical Fallacy Understanding](https://arxiv.org/pdf/2404.04293.pdf) (04/2024)
+    - [Toward Self-Improvement of LLMs via Imagination, Searching, and Criticizing (AlphaLLM)](https://arxiv.org/pdf/2404.12253.pdf) (04/2024)
+    - [Stream of Search (SoS): Learning to Search in Language](https://arxiv.org/pdf/2404.03683.pdf) (04/2024)
+    - [Language Models as Compilers: Simulating Pseudocode Execution Improves Algorithmic Reasoning in Language Models](https://arxiv.org/pdf/2404.02575.pdf) (04/2024)
+    - [DON’T TRUST: VERIFY – GROUNDING LLM QUANTITATIVE REASONING WITH AUTOFORMALIZATION](https://arxiv.org/pdf/2403.18120.pdf) (03/2024)
+    - [Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking](https://arxiv.org/pdf/2403.09629.pdf) (03/2024)
+    - [Self-Discover: Large Language Models Self-Compose Reasoning Structures](https://arxiv.org/pdf/2402.03620.pdf) (02/2024)
+  - 2023
+    - [Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models](https://arxiv.org/pdf/2312.17080.pdf) (12/2023)
+    - [Retrieval-Augmented Multi-Modal Chain-of-Thoughts Reasoning for Large Language Models](https://arxiv.org/pdf/2312.01714.pdf) (12/2023)
+    - [MAMMOTH: BUILDING MATH GENERALIST MODELS THROUGH HYBRID INSTRUCTION TUNING](https://arxiv.org/pdf/2309.05653.pdf) (09/2023)
+    - [Memory Injections: Correcting Multi-Hop Reasoning Failures during Inference in Transformer-Based Language Models](https://arxiv.org/pdf/2309.05605.pdf) (09/2023)
+    - [Everything of Thoughts: Defying the Law of Penrose Triangle for Thought Generation](https://arxiv.org/abs/2311.04254) (11/2023)
+    - [HINT-ENHANCED IN-CONTEXT LEARNING WAKES LARGE LANGUAGE MODELS UP FOR KNOWLEDGE-INTENSIVE TASKS](https://arxiv.org/pdf/2311.01949.pdf) (11/2023)
+    - [LINC: A Neurosymbolic Approach for Logical Reasoning by Combining Language Models with First-Order Logic Provers](https://arxiv.org/pdf/2310.15164.pdf) (10/2023)
+    - [BRANCH-SOLVE-MERGE IMPROVES LARGE LANGUAGE MODEL EVALUATION AND GENERATION](https://arxiv.org/pdf/2310.15123.pdf) (10/2023)
+    - [Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://arxiv.org/pdf/2305.10601.pdf) (05/2023)
+    - [Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models](https://arxiv.org/pdf/2305.04091.pdf) (05/2023)
+    - [Verify-and-Edit: A Knowledge-Enhanced Chain-of-Thought Framework](https://arxiv.org/pdf/2305.03268.pdf) (05/2023)
+    - [Causal Reasoning and Large Language Models: Opening a New Frontier for Causality](https://arxiv.org/pdf/2305.00050.pdf) (05/2023)
+    - [Recursion of Thought: A Divide-and-Conquer Approach to Multi-Context Reasoning with Language Models](https://arxiv.org/pdf/2306.06891.pdf) (06/2023)
+    - [Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models](https://arxiv.org/pdf/2304.09842.pdf) (04/2023)
+    - [Progressive-Hint Prompting Improves Reasoning in Large Language Models](https://arxiv.org/pdf/2304.09797.pdf) (04/2023)
 - Coding
-  - [COFFEE: Boost Your Code LLMs by Fixing Bugs with Feedback](https://arxiv.org/pdf/2311.07215.pdf)
-  - [MAGIS: LLM-Based Multi-Agent Framework for GitHub Issue ReSolution](https://arxiv.org/pdf/2403.17927.pdf)
-  - [Code Generation with AlphaCodium: From Prompt Engineering to Flow Engineering](https://arxiv.org/pdf/2401.08500.pdf)
-  - [AgentCoder: Multiagent-Code Generation with Iterative Testing and Optimisation](https://arxiv.org/pdf/2312.13010.pdf)
-  - [MFTCoder: Boosting Code LLMs with Multitask Fine-Tuning](https://arxiv.org/pdf/2311.02303.pdf)
-  - [Bridging Code Semantic and LLMs: Semantic Chain-of-Thought Prompting for Code Generation](https://arxiv.org/pdf/2310.10698.pdf)
-  - [INTERVENOR : Prompting the Coding Ability of Large Language Models with the Interactive Chain of Repair](https://arxiv.org/pdf/2311.09868.pdf)
-  - [ClarifyGPT: Empowering LLM-based Code Generation with Intention Clarification](https://arxiv.org/pdf/2310.10996.pdf)
+  - 2024
+    - [MAGIS: LLM-Based Multi-Agent Framework for GitHub Issue ReSolution](https://arxiv.org/pdf/2403.17927.pdf) (03/2024)
+    - [Code Generation with AlphaCodium: From Prompt Engineering to Flow Engineering](https://arxiv.org/pdf/2401.08500.pdf) (01/2024)
+  - 2023
+    - [AgentCoder: Multiagent-Code Generation with Iterative Testing and Optimisation](https://arxiv.org/pdf/2312.13010.pdf) (12/2023)
+    - [INTERVENOR: Prompting the Coding Ability of Large Language Models with the Interactive Chain of Repair](https://arxiv.org/pdf/2311.09868.pdf) (11/2023)
+    - [COFFEE: Boost Your Code LLMs by Fixing Bugs with Feedback](https://arxiv.org/pdf/2311.07215.pdf) (11/2023)
+    - [MFTCoder: Boosting Code LLMs with Multitask Fine-Tuning](https://arxiv.org/pdf/2311.02303.pdf) (11/2023)
+    - [ClarifyGPT: Empowering LLM-based Code Generation with Intention Clarification](https://arxiv.org/pdf/2310.10996.pdf) (10/2023)
+    - [Bridging Code Semantic and LLMs: Semantic Chain-of-Thought Prompting for Code Generation](https://arxiv.org/pdf/2310.10698.pdf) (10/2023)
 - Logical reasoning
-  - [Language Models can be Logical Solvers](https://arxiv.org/pdf/2311.06158.pdf)
+  - 2023
+    - [Language Models can be Logical Solvers](https://arxiv.org/pdf/2311.06158.pdf)
 - Math  
-  - [DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/pdf/2402.03300.pdf)
+  - 2024
+    - [DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/pdf/2402.03300.pdf)
 - Meta
-  - [MR-GSM8K: A Meta-Reasoning Revolution in Large Language Model Evaluation](https://arxiv.org/pdf/2312.17080.pdf)
-  - [Metacognitive Prompting Improves Understanding in Large Language Models](https://arxiv.org/pdf/2308.05342.pdf)
-  - [Meta-Reasoning: Semantics-Symbol Deconstruction for Large Language Models](https://arxiv.org/pdf/2306.17820.pdf)
+  - 2023
+    - [MR-GSM8K: A Meta-Reasoning Revolution in Large Language Model Evaluation](https://arxiv.org/pdf/2312.17080.pdf) (12/2023)
+    - [Metacognitive Prompting Improves Understanding in Large Language Models](https://arxiv.org/pdf/2308.05342.pdf) (08/2023)
+    - [Meta-Reasoning: Semantics-Symbol Deconstruction for Large Language Models](https://arxiv.org/pdf/2306.17820.pdf) (06/2023)
 
 ## Context window
 
 > Papers in this section address how expanding the contextual awareness of models can significantly enhance memory and attention mechanisms. This includes exploring architectures that handle long-term dependencies and infinite contexts to improve the working memory of transformers.
 
 - Extension
-  - [TransformerFAM: Feedback attention is working memory](https://arxiv.org/pdf/2404.09173.pdf)
-  - [Leave No Context Behind: Efficient Infinite Context Transformers with Infini-attention](https://arxiv.org/pdf/2404.07143.pdf)
-  - [InfLLM: Unveiling the Intrinsic Capacity of LLMs for Understanding Extremely Long Sequences](https://arxiv.org/pdf/2402.04617.pdf) ?? Is this the right place for this?
-  - [LongRoPE: Extending LLM Context Window Beyond 2 Million Tokens](https://arxiv.org/abs/2402.13753)
-  - [LLM Maybe LongLM: Self-Extend LLM Context Window Without Tuning](https://arxiv.org/abs/2401.01325)
+  - 2024
+    - [TransformerFAM: Feedback attention is working memory](https://arxiv.org/pdf/2404.09173.pdf) (04/2024)
+    - [Leave No Context Behind: Efficient Infinite Context Transformers with Infini-attention](https://arxiv.org/pdf/2404.07143.pdf) (04/2024)
+    - [InfLLM: Unveiling the Intrinsic Capacity of LLMs for Understanding Extremely Long Sequences](https://arxiv.org/pdf/2402.04617.pdf) (02/2024)
+    - [LongRoPE: Extending LLM Context Window Beyond 2 Million Tokens](https://arxiv.org/abs/2402.13753) (02/2024)
+    - [LLM Maybe LongLM: Self-Extend LLM Context Window Without Tuning](https://arxiv.org/abs/2401.01325) (01/2024)
 
 ## Operational efficiency
 
 > Focuses on optimizing the computational efficiency and practical deployment of LLMs. This includes reducing the computational load, increasing inference speed, improving resource allocation, and strategies to minimize costs without sacrificing performance.
 
-- [ExeGPT: Constraint-Aware Resource Scheduling for LLM Inference](https://arxiv.org/pdf/2404.07947.pdf)\
-- [FFN-SkipLLM: A Hidden Gem for Autoregressive Decoding with Adaptive Feed Forward Skipping](https://arxiv.org/pdf/2404.03865.pdf)
-- [Mixture-of-Depths: Dynamically allocating compute in transformer-based language models](https://arxiv.org/pdf/2404.02258.pdf)
-- [The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits](https://arxiv.org/pdf/2402.17764.pdf)
-- [Herd: Using multiple, smaller LLMs to match the performances of proprietary, large LLMs via an intelligent composer](https://arxiv.org/pdf/2310.19902.pdf)
-- [Efficient LLM Inference on CPUs](https://arxiv.org/pdf/2311.00502.pdf)
-- [Lookahead: An Inference Acceleration Framework for Large Language Model with Lossless Generation Accuracy](https://arxiv.org/pdf/2312.12728.pdf)
-- [Cache me if you Can: an Online Cost-aware Teacher-Student Framework to Reduce the Calls to Large Language Models](https://arxiv.org/pdf/2310.13395.pdf)
-- [FrugalGPT: How to Use Large Language Models While Reducing Cost and Improving Performance](https://arxiv.org/pdf/2305.05176.pdf)
-- [SARATHI: Efficient LLM Inference by Piggybacking Decodes with Chunked Prefills](https://arxiv.org/pdf/2308.16369.pdf)
-- [EdgeMoE: Fast On-Device Inference of MoE-based Large Language Models](https://arxiv.org/pdf/2308.14352.pdf)
-- [FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning](https://tridao.me/publications/flash2/flash2.pdf)
-- [Paper page - LLM in a flash: Efficient Large Language Model Inference with Limited Memory](https://huggingface.co/papers/2312.11514)
-- [Exponential Faster Language Models](https://arxiv.org/pdf/2311.10770.pdf)
+- 2024
+  - [ExeGPT: Constraint-Aware Resource Scheduling for LLM Inference](https://arxiv.org/pdf/2404.07947.pdf) (04/2024)
+  - [FFN-SkipLLM: A Hidden Gem for Autoregressive Decoding with Adaptive Feed Forward Skipping](https://arxiv.org/pdf/2404.03865.pdf) (04/2024)
+  - [Mixture-of-Depths: Dynamically allocating compute in transformer-based language models](https://arxiv.org/pdf/2404.02258.pdf) (04/2024)
+  - [The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits](https://arxiv.org/pdf/2402.17764.pdf) (02/2024)
+- 2023
+  - [Lookahead: An Inference Acceleration Framework for Large Language Model with Lossless Generation Accuracy](https://arxiv.org/pdf/2312.12728.pdf) (12/2023)
+  - [Exponential Faster Language Models](https://arxiv.org/pdf/2311.10770.pdf) (11/2023)
+  - [Efficient LLM Inference on CPUs](https://arxiv.org/pdf/2311.00502.pdf) (11/2023)
+  - [Cache me if you Can: an Online Cost-aware Teacher-Student Framework to Reduce the Calls to Large Language Models](https://arxiv.org/pdf/2310.13395.pdf) (10/2023)
+  - [Herd: Using multiple, smaller LLMs to match the performances of proprietary, large LLMs via an intelligent composer](https://arxiv.org/pdf/2310.19902.pdf) (10/2023)
+  - [SARATHI: Efficient LLM Inference by Piggybacking Decodes with Chunked Prefills](https://arxiv.org/pdf/2308.16369.pdf) (08/2023)
+  - [EdgeMoE: Fast On-Device Inference of MoE-based Large Language Models](https://arxiv.org/pdf/2308.14352.pdf) (08/2023)
+  - [FrugalGPT: How to Use Large Language Models While Reducing Cost and Improving Performance](https://arxiv.org/pdf/2305.05176.pdf) (05/2023)
+  - [Paper page - LLM in a flash: Efficient Large Language Model Inference with Limited Memory](https://huggingface.co/papers/2312.11514) (12/2023)
+  - [FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning](https://tridao.me/publications/flash2/flash2.pdf)
 
 ## Hallucination/Factuality
 
 > This segment covers research on minimizing hallucinations—false or misleading information generated by LLMs. Papers propose various techniques for enhancing the fact-checking capabilities of models, ensuring more reliable and factual outputs.
 
-- [Self-Checker: Plug-and-Play Modules for Fact-Checking with Large Language Models](https://arxiv.org/pdf/2305.14623.pdf)
-- [CHAIN-OF-VERIFICATION REDUCES HALLUCINATION IN LARGE LANGUAGE MODELS](https://arxiv.org/pdf/2309.11495.pdf)
-- [Unveiling the Siren's Song: Towards Reliable Fact-Conflicting Hallucination Detection](https://arxiv.org/pdf/2310.12086.pdf)
-- [“Oops, Did I Just Say That?” Testing and Repairing Unethical Suggestions of Large Language Models with Suggest-Critique-Reflect Process](https://arxiv.org/pdf/2305.02626.pdf)
-- [SELFCHECKGPT: Zero-Resource Black-Box Hallucination Detection for Generative Large Language Models](https://arxiv.org/pdf/2303.08896.pdf)
+- 2023
+  - [CHAIN-OF-VERIFICATION REDUCES HALLUCINATION IN LARGE LANGUAGE MODELS](https://arxiv.org/pdf/2309.11495.pdf) (09/2023)
+  - [Unveiling the Siren's Song: Towards Reliable Fact-Conflicting Hallucination Detection](https://arxiv.org/pdf/2310.12086.pdf) (10/2023)
+  - [Self-Checker: Plug-and-Play Modules for Fact-Checking with Large Language Models](https://arxiv.org/pdf/2305.14623.pdf) (05/2023)
+  - [“Oops, Did I Just Say That?” Testing and Repairing Unethical Suggestions of Large Language Models with Suggest-Critique-Reflect Process](https://arxiv.org/pdf/2305.02626.pdf) (05/2023)
+  - [SELFCHECKGPT: Zero-Resource Black-Box Hallucination Detection for Generative Large Language Models](https://arxiv.org/pdf/2303.08896.pdf) (03/2023)
+
 
 ## Specific niche/topics
 
 > Includes papers that apply LLMs to specialized fields such as data science, DevOps, and personalized learning. These studies explore how LLMs can be tailored to specific professional tasks, including automated code generation and data interpretation.
 
-- [DATA INTERPRETER: AN LLM AGENT FOR DATA SCIENCE](https://arxiv.org/pdf/2402.18679.pdf)
-- [Personalised Distillation: Empowering Open-Sourced LLMs with Adaptive Learning for Code Generation](https://arxiv.org/pdf/2310.18628.pdf)
-- [Automated DevOps Pipeline Generation for Code Repositories using Large Language Models](https://arxiv.org/pdf/2312.13225.pdf)
-- [Static Code Analysis in the AI Era: An In-depth Exploration of the Concept, Function, and Potential of Intelligent Code Analysis Agents](https://arxiv.org/pdf/2310.08837.pdf)
-- [Self-collaboration Code Generation via ChatGPT](https://arxiv.org/pdf/2304.07590.pdf)
-- [Constructing Effective In-Context Demonstration for Code Intelligence Tasks: An Empirical Study](https://arxiv.org/pdf/2304.07575.pdf)
-- [Exploring the Robustness of Large Language Models for Solving Programming Problems](https://arxiv.org/pdf/2306.14583.pdf)
-- [Private-Library-Oriented Code Generation with Large Language Models](https://arxiv.org/pdf/2307.15370.pdf)
+- Data Science
+  - 2024
+    - [DS-Agent: Automated Data Science by Empowering Large Language Models with Case-Based Reasoning](https://arxiv.org/pdf/2402.17453.pdf) (04/2024)
+    - [DATA INTERPRETER: AN LLM AGENT FOR DATA SCIENCE](https://arxiv.org/pdf/2402.18679.pdf)
+- Coding (and related)
+  - 2023
+    - [Automated DevOps Pipeline Generation for Code Repositories using Large Language Models](https://arxiv.org/pdf/2312.13225.pdf) (12/2023)
+    - [Personalised Distillation: Empowering Open-Sourced LLMs with Adaptive Learning for Code Generation](https://arxiv.org/pdf/2310.18628.pdf) (10/2023)
+    - [Static Code Analysis in the AI Era: An In-depth Exploration of the Concept, Function, and Potential of Intelligent Code Analysis Agents](https://arxiv.org/pdf/2310.08837.pdf) (10/2023)
+    - [Private-Library-Oriented Code Generation with Large Language Models](https://arxiv.org/pdf/2307.15370.pdf) (07/2023)
+    - [Exploring the Robustness of Large Language Models for Solving Programming Problems](https://arxiv.org/pdf/2306.14583.pdf) (06/2023)
+    - [Self-collaboration Code Generation via ChatGPT](https://arxiv.org/pdf/2304.07590.pdf) (04/2023)
+    - [Constructing Effective In-Context Demonstration for Code Intelligence Tasks: An Empirical Study](https://arxiv.org/pdf/2304.07575.pdf) (04/2023)
 
 ## Evaluation/benchmarking
 
 > This section presents methodologies for assessing the performance of LLMs, particularly in handling extensive contexts and complex reasoning tasks. It includes innovative evaluation strategies that aim to provide more comprehensive and practical assessments of model capabilities.
 
-- [Counting-Stars (★): A Simple, Efficient, and Reasonable Strategy for Evaluating Long-Context Large Language Models](https://arxiv.org/pdf/2403.11802.pdf)
+- 2024
+  - [Counting-Stars (★): A Simple, Efficient, and Reasonable Strategy for Evaluating Long-Context Large Language Models](https://arxiv.org/pdf/2403.11802.pdf)
 
 ## Training
 
 > Discusses methods and strategies for the continuous training and improvement of LLMs. Topics include token efficiency, scalable training strategies, and data autonomy to enhance the learning process without extensive resources.
 
 - General
-  - [RHO-1: Not All Tokens Are What You Need](https://arxiv.org/pdf/2404.07965.pdf)
-  - [ReAct Meets ActRe: When Language Agents Enjoy Training Data Autonomy](https://arxiv.org/pdf/2403.14589.pdf)
-  - [Agent LUMOS: Unified and Modular Training for Open-Source Language Agents](https://arxiv.org/pdf/2311.05657.pdf)
-  - [Rephrasing the Web (from Apple)](https://arxiv.org/pdf/2401.16380.pdf)
+  - 2024
+    - [RHO-1: Not All Tokens Are What You Need](https://arxiv.org/pdf/2404.07965.pdf) (04/2024)
+    - [ReAct Meets ActRe: When Language Agents Enjoy Training Data Autonomy](https://arxiv.org/pdf/2403.14589.pdf) (03/2024)
+    - [Rephrasing the Web (from Apple)](https://arxiv.org/pdf/2401.16380.pdf) (01/2024)
+  - 2023
+    - [Agent LUMOS: Unified and Modular Training for Open-Source Language Agents](https://arxiv.org/pdf/2311.05657.pdf) (11/2023)
+
 - "Continuous" learning
-  - [Simple and Scalable Strategies to Continually Pre-train Large Language Models](https://arxiv.org/pdf/2403.08763.pdf)
-  - [Larimar: Large Language Models with Episodic Memory Control](https://arxiv.org/pdf/2403.11901.pdf)
+  - 2024
+    - [Simple and Scalable Strategies to Continually Pre-train Large Language Models](https://arxiv.org/pdf/2403.08763.pdf)
+    - [Larimar: Large Language Models with Episodic Memory Control](https://arxiv.org/pdf/2403.11901.pdf)
 
 ## Tools/tool use
 
 > Explores how LLMs can be integrated with external tools or APIs to extend their functionality beyond pure text processing. This includes learning to interact with and manipulate external software tools or databases, thereby broadening the practical applications of LLMs.
 
-- [GEAR: Augmenting Language Models with Generalizable and Efficient Tool Resolution](https://arxiv.org/pdf/2307.08775.pdf)
-- [Tool Learning with Foundation Models](https://arxiv.org/pdf/2304.08354.pdf)
-- [Gorilla: Large Language Model Connected with Massive APIs](https://arxiv.org/pdf/2305.15334.pdf)
+- 2023
+  - [Gorilla: Large Language Model Connected with Massive APIs](https://arxiv.org/pdf/2305.15334.pdf) (05/2023)
+  - [GEAR: Augmenting Language Models with Generalizable and Efficient Tool Resolution](https://arxiv.org/pdf/2307.08775.pdf) (07/2023)
+  - [Tool Learning with Foundation Models](https://arxiv.org/pdf/2304.08354.pdf) (04/2023)
+
