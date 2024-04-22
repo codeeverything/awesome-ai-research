@@ -91,9 +91,9 @@ I hope this collection serves as a springboard for your exploration and inspires
   - [Herd: Using multiple, smaller LLMs to match the performances of proprietary, large LLMs via an intelligent composer](https://arxiv.org/pdf/2310.19902.pdf) (10/2023)
   - [SARATHI: Efficient LLM Inference by Piggybacking Decodes with Chunked Prefills](https://arxiv.org/pdf/2308.16369.pdf) (08/2023)
   - [EdgeMoE: Fast On-Device Inference of MoE-based Large Language Models](https://arxiv.org/pdf/2308.14352.pdf) (08/2023)
+  - [FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning](https://tridao.me/publications/flash2/flash2.pdf) (07/2023)
   - [FrugalGPT: How to Use Large Language Models While Reducing Cost and Improving Performance](https://arxiv.org/pdf/2305.05176.pdf) (05/2023)
   - [Paper page - LLM in a flash: Efficient Large Language Model Inference with Limited Memory](https://huggingface.co/papers/2312.11514) (12/2023)
-  - [FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning](https://tridao.me/publications/flash2/flash2.pdf)
 
 ## Hallucination/Factuality
 
