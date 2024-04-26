@@ -80,7 +80,8 @@ I hope this collection serves as a springboard for your exploration and inspires
 > Focuses on optimizing the computational efficiency and practical deployment of LLMs. This includes reducing the computational load, increasing inference speed, improving resource allocation, and strategies to minimize costs without sacrificing performance.
 
 - 2024
-  - [LayerSkip: Enabling Early Exit Inference and Self-Speculative Decoding](https://arxiv.org/pdf/2404.16710)
+  - [LayerSkip: Enabling Early Exit Inference and Self-Speculative Decoding](https://arxiv.org/pdf/2404.16710) (04/2024)
+  - [SnapKV : LLM Knows What You are Looking for Before Generation](https://arxiv.org/pdf/2404.14469.pdf) (04/2024)
   - [ExeGPT: Constraint-Aware Resource Scheduling for LLM Inference](https://arxiv.org/pdf/2404.07947.pdf) (04/2024)
   - [FFN-SkipLLM: A Hidden Gem for Autoregressive Decoding with Adaptive Feed Forward Skipping](https://arxiv.org/pdf/2404.03865.pdf) (04/2024)
   - [Mixture-of-Depths: Dynamically allocating compute in transformer-based language models](https://arxiv.org/pdf/2404.02258.pdf) (04/2024)
