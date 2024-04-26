@@ -68,6 +68,7 @@ I hope this collection serves as a springboard for your exploration and inspires
 
 - Extension
   - 2024
+    - [Make Your LLM Fully Utilize the Context](https://arxiv.org/pdf/2404.16811)
     - [TransformerFAM: Feedback attention is working memory](https://arxiv.org/pdf/2404.09173.pdf) (04/2024)
     - [Leave No Context Behind: Efficient Infinite Context Transformers with Infini-attention](https://arxiv.org/pdf/2404.07143.pdf) (04/2024)
     - [InfLLM: Unveiling the Intrinsic Capacity of LLMs for Understanding Extremely Long Sequences](https://arxiv.org/pdf/2402.04617.pdf) (02/2024)
@@ -79,6 +80,7 @@ I hope this collection serves as a springboard for your exploration and inspires
 > Focuses on optimizing the computational efficiency and practical deployment of LLMs. This includes reducing the computational load, increasing inference speed, improving resource allocation, and strategies to minimize costs without sacrificing performance.
 
 - 2024
+  - [LayerSkip: Enabling Early Exit Inference and Self-Speculative Decoding](https://arxiv.org/pdf/2404.16710)
   - [ExeGPT: Constraint-Aware Resource Scheduling for LLM Inference](https://arxiv.org/pdf/2404.07947.pdf) (04/2024)
   - [FFN-SkipLLM: A Hidden Gem for Autoregressive Decoding with Adaptive Feed Forward Skipping](https://arxiv.org/pdf/2404.03865.pdf) (04/2024)
   - [Mixture-of-Depths: Dynamically allocating compute in transformer-based language models](https://arxiv.org/pdf/2404.02258.pdf) (04/2024)
